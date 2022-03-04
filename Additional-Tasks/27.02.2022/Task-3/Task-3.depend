@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1645884825 source:c:\users\ivana\desktop\tu\technical-university-of-sofia-c\additional-tasks\27.02.2022\task-3\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
