@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1653648953 source:c:\users\ivana\desktop\tu\technical-university-of-sofia-c\examprep\structures\task-4\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
